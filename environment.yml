@@ -3,15 +3,10 @@ channels:
   - defaults
 dependencies:
   - python==3.8.10
-  - matplotlib
-  - tqdm
-  - jupyter
   - pip
   - pip:
     - torch
     - torchtext
-    - notebook
     - numpy
-    - spacy
     - assemblyai
-
+    - python-dotenv
