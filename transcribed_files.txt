@@ -1,0 +1,2 @@
+./Dad_Newscasts/bt M 9p newscast 09202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 04282023.MP3
