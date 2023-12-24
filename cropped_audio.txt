@@ -1,0 +1,1471 @@
+./Dad_Newscasts/bt M 9p newscast 09202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 04282023.MP3
+./Dad_Newscasts/bt M 8p newscast 06132023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09082023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11292023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12042023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10312023.MP3
+./Dad_Newscasts/bt M 6p newscast 08152023.MP3
+./Dad_Newscasts/bt M 6p newscast 09272023.MP3
+./Dad_Newscasts/bt M 7p newscast 11242023.MP3
+./Dad_Newscasts/bt M 9p newscast 08012023.MP3
+./Dad_Newscasts/bt G1 EU AI 12082023 LONG w intro.MP3
+./Dad_Newscasts/bt M 9p newscast 10192023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06262023.MP3
+./Dad_Newscasts/bt M 2p newscast 08232023.MP3
+./Dad_Newscasts/bt M 9p newscast 08282023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08162023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09252023.MP3
+./Dad_Newscasts/bt M 6p newscast 07252023.MP3
+./Dad_Newscasts/bt M 6p newscast 08232023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06142023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07262023.MP3
+./Dad_Newscasts/bt M 9p newscast 10102023.MP3
+./Dad_Newscasts/bt F 10p newscast 11242023.MP3
+./Dad_Newscasts/bt M 8p newscast 08172023.MP3
+./Dad_Newscasts/bt V4 Nassar Epstein 06012023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06072023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 04252023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11032023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10052023.MP3
+./Dad_Newscasts/bt G1 Biden Gitmo 09062023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast 11282023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12072023.MP3
+./Dad_Newscasts/bt M 7p newscast 10302023.MP3
+./Dad_Newscasts/bt M 10p newscast 10252023.MP3
+./Dad_Newscasts/bt W1m Spotless Giraffe 08222023.MP3
+./Dad_Newscasts/bt M 7p newscast 09072023.MP3
+./Dad_Newscasts/bt M 6p newscast 07112023.MP3
+./Dad_Newscasts/bt W1 Hot Ocean 07252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08162023.MP3
+./Dad_Newscasts/bt M 10p newscast 10232023.MP3
+./Dad_Newscasts/bt M 7p newscast 06272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10052023.MP3
+./Dad_Newscasts/bt M 8p newscast 05302023.MP3
+./Dad_Newscasts/bt G1 Climate Atlantic 07262023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07112023.MP3
+./Dad_Newscasts/bt Wm Bob Ross 09202023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06212023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10102023.MP3
+./Dad_Newscasts/bt W1 Transgender Health Arkansas 06202023.MP3
+./Dad_Newscasts/bt F 9p newscast 11272023.MP3
+./Dad_Newscasts/bt M 5p newscast 08222023.MP3
+./Dad_Newscasts/bt M 6p newscast 11232023.MP3
+./Dad_Newscasts/bt M 7p newscast 08252023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06072023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt M 7p newscast 08142023.MP3
+./Dad_Newscasts/bt M 6p newscast 08292023.MP3
+./Dad_Newscasts/bt M 8p newscast 08252023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt M 8p newscast 11102023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09272023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06142023.MP3
+./Dad_Newscasts/bt M 7p newscast 10252023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07262023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06272023.MP3
+./Dad_Newscasts/bt M 7p newscast 09272023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 07282023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 07242023.MP3
+./Dad_Newscasts/bt M 6p newscast 08032023.MP3
+./Dad_Newscasts/bt M 10p newscast 05312023.MP3
+./Dad_Newscasts/bt M 9p newscast 12152023.MP3
+./Dad_Newscasts/bt M 8p newscast 09212023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06092023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06072023.MP3
+./Dad_Newscasts/bt 9p newscast 11142023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06062023.MP3
+./Dad_Newscasts/bt G1 Is Pals Shifa Hamas 11152023 LONG w intro.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07102023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08282023.MP3
+./Dad_Newscasts/bt M 8p newscast 06022023.MP3
+./Dad_Newscasts/bt V1 Trump Class Docs 07052023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09292023.MP3
+./Dad_Newscasts/bt G1 Trump Capitol Riot 09052023.MP3
+./Dad_Newscasts/bt G1 Elec 2024 Trump CNN 05102023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt M 630p AP Newswatch 11232023.MP3
+./Dad_Newscasts/bt M 7p newscast 04282023.MP3
+./Dad_Newscasts/bt M 8p newscast 08182023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07112023.MP3
+./Dad_Newscasts/bt M 10p newscast 07122023.MP3
+./Dad_Newscasts/bt M 6p newscast 07272023.MP3
+./Dad_Newscasts/bt M 9p newscast 08152023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09222023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09222023.MP3
+./Dad_Newscasts/bt M 8p newscast 07312023.MP3
+./Dad_Newscasts/bt M 10p newscast 08232023.MP3
+./Dad_Newscasts/bt M 10p newscast 09082023.MP3
+./Dad_Newscasts/bt F 6p newscast 10302023.MP3
+./Dad_Newscasts/bt M 10p newscast 08162023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08022023.MP3
+./Dad_Newscasts/bt G1 Apple iPhone Secty Update 09072023 LONG w intro.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11152023.MP3
+./Dad_Newscasts/bt M 9p newscast 07112023.MP3
+./Dad_Newscasts/bt M 10p newscast 07102023.MP3
+./Dad_Newscasts/bt F 10p update newscast 10252023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 09062023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06152023.MP3
+./Dad_Newscasts/bt M 6p newscast 05032023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12152023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12132023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06142023.MP3
+./Dad_Newscasts/bt M 9p newscast 09052023.MP3
+./Dad_Newscasts/bt M 9p newscast 11012023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12152023.MP3
+./Dad_Newscasts/bt M 6p newscast 11212023.MP3
+./Dad_Newscasts/bt M 10p newscast 08282023.MP3
+./Dad_Newscasts/bt M 8p newscast 12082023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12062023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05092023.MP3
+./Dad_Newscasts/bt M 8p newscast 04262023.MP3
+./Dad_Newscasts/bt M 6p newscast 10062023.MP3
+./Dad_Newscasts/bt M 8p newscast 09082023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt M 10p newscast 04282023.MP3
+./Dad_Newscasts/bt M 7p newscast 08312023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07272023.MP3
+./Dad_Newscasts/bt G1 Is Pals Cease-Fire 11232023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09062023.MP3
+./Dad_Newscasts/bt M 7p newscast 10032023.MP3
+./Dad_Newscasts/bt W1 EU AI 12082023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10122023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10262023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07252023.MP3
+./Dad_Newscasts/bt M 9p newscast 11232023.MP3
+./Dad_Newscasts/bt G1 Russ Belarus Wagner 07192023 LONG w intro.MP3
+./Dad_Newscasts/bt M 9p newscast 12062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12112023.MP3
+./Dad_Newscasts/bt M 9p newscast 08162023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10172023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt G1 Ill books 06122023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast  07272023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09062023.MP3
+./Dad_Newscasts/bt W1 Is Pals Shifa Hamas 11152023.MP3
+./Dad_Newscasts/bt M 8p newscast 11022023.MP3
+./Dad_Newscasts/bt 330p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06272023.MP3
+./Dad_Newscasts/bt M 7p newscast 12062023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12012023.MP3
+./Dad_Newscasts/bt M 6p newscast 05112023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10022023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10052023.MP3
+./Dad_Newscasts/bt M 6p newscast 09042023.MP3
+./Dad_Newscasts/bt M 7p newscast 06192023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05122023.MP3
+./Dad_Newscasts/bt M 7p newscast 08172023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12152023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch Update 05312023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10262023.MP3
+./Dad_Newscasts/bt M 6p newscast 08012023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10092023.MP3
+./Dad_Newscasts/bt M 9p newscast 08252023.MP3
+./Dad_Newscasts/bt M 9p newscast 08312023.MP3
+./Dad_Newscasts/bt M 7p newscast 12082023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 09282023.MP3
+./Dad_Newscasts/bt M 8p newscast 06012023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10042023.MP3
+./Dad_Newscasts/bt M 8p newscast 11242023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11022023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06152023.MP3
+./Dad_Newscasts/bt M 10p newscast 10032023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11152023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08182023.MP3
+./Dad_Newscasts/bt M 9p newscast 11152023.MP3
+./Dad_Newscasts/bt M 10p newscast 10062023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08282023.MP3
+./Dad_Newscasts/bt M 8p newscast 07122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07282023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10132023.MP3
+./Dad_Newscasts/bt G1 Congress Speaker Johnson 10242023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09192023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12052023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 04212023.MP3
+./Dad_Newscasts/bt U 8p newscast 11232023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12062023.MP3
+./Dad_Newscasts/bt M 6p newscast 10112023.MP3
+./Dad_Newscasts/bt M 8p newscast 08232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10042023.MP3
+./Dad_Newscasts/bt M 7p newscast 08042023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08162023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05092023.MP3
+./Dad_Newscasts/bt M 10p newscast 12122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09192023.MP3
+./Dad_Newscasts/bt M 10p newscast 09042023.MP3
+./Dad_Newscasts/bt W1 Climate US Natl Assessment 11142023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06192023 - Copy.MP3
+./Dad_Newscasts/bt M 7p newscast 07252023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 09292023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 05122023.MP3
+./Dad_Newscasts/bt M 8p newscast 07282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10122023.MP3
+./Dad_Newscasts/bt M 9p newscast 06282023.MP3
+./Dad_Newscasts/bt M 7p newscast 11012023.MP3
+./Dad_Newscasts/bt M 10p newscast 11302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12042023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09062023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05112023.MP3
+./Dad_Newscasts/bt M 8p newscast 08012023.MP3
+./Dad_Newscasts/bt M 8p newscast 06152023.MP3
+./Dad_Newscasts/bt G1 Obit Kissinger 11292023 LONG w intro.MP3
+./Dad_Newscasts/bt W2 Fed Prisons 07112023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12072023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08042023.MP3
+./Dad_Newscasts/bt M 9p newscast 12082023.MP3
+./Dad_Newscasts/bt M 7p newscast 09192023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06192023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06052023.MP3
+./Dad_Newscasts/bt M 9p newscast 06082023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11202023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12082023.MP3
+./Dad_Newscasts/bt G1f IRS Visits 0724023 LONG w intro.MP3
+./Dad_Newscasts/bt M 7p newscast 07262023.MP3
+./Dad_Newscasts/bt M 8p newscast 07182023.MP3
+./Dad_Newscasts/bt M 7p newscast 09082023.MP3
+./Dad_Newscasts/bt FIX 930p AP NewsWatch 09042023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11222023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 1020203.MP3
+./Dad_Newscasts/bt M 9p newscast 07182023.MP3
+./Dad_Newscasts/bt G1 Hawaii Volcano 06072023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11242023.MP3
+./Dad_Newscasts/bt M 10p newscast 05122023.MP3
+./Dad_Newscasts/bt G1f Radiation 08302023 LONG w intro.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06072023.MP3
+./Dad_Newscasts/bt M 7p newscast 09282023.MP3
+./Dad_Newscasts/bt M 9p newscast 07272023.MP3
+./Dad_Newscasts/bt M 6p newscast 09202023.MP3
+./Dad_Newscasts/bt V2 Elec 2024 Trump CNN 05102023 election lies.MP3
+./Dad_Newscasts/bt M 7p newscast 10112023.MP3
+./Dad_Newscasts/bt M 6p newscast 06282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08242023.MP3
+./Dad_Newscasts/bt M 10p newscast 05032023.MP3
+./Dad_Newscasts/bt M 7p newscast 07242023.MP3
+./Dad_Newscasts/bt M 8p newscast 06262023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12062023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08252023.MP3
+./Dad_Newscasts/bt M 8p newscast 08292023.MP3
+./Dad_Newscasts/bt M 8p newscast 04212023.MP3
+./Dad_Newscasts/bt M 10p newscast 12152023.MP3
+./Dad_Newscasts/bt M 10p newscast 10262023.MP3
+./Dad_Newscasts/bt M 9p newscast 05302023.MP3
+./Dad_Newscasts/bt M 9p newscast 05032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11062023.MP3
+./Dad_Newscasts/bt M 8p newscast 08162023.MP3
+./Dad_Newscasts/bt M 7p newscast 07172023.MP3
+./Dad_Newscasts/bt M 7p newscast 09202023.MP3
+./Dad_Newscasts/bt M 10p newscast 06072023.MP3
+./Dad_Newscasts/bt M 7p newscast 11172023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10252023.MP3
+./Dad_Newscasts/bt 9p newscast 05092023.MP3
+./Dad_Newscasts/bt M 6p newscast 08242023.MP3
+./Dad_Newscasts/bt M 6p newscast 07182023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08022023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07242023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 06022023.MP3
+./Dad_Newscasts/bt M 8p newscast 07052023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09212023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06012023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt M 9p newscast 04272023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11022023.MP3
+./Dad_Newscasts/bt M 7p newscast 11062023.MP3
+./Dad_Newscasts/bt M 7p newscast 11072023.MP3
+./Dad_Newscasts/bt F1 Is-Pals blame 10172023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 10032023.MP3
+./Dad_Newscasts/bt M 7p newscast 08212023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06132023.MP3
+./Dad_Newscasts/bt G1 Congress Ukraine 12052023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08312023.MP3
+./Dad_Newscasts/bt M 9p newscast 11072023.MP3
+./Dad_Newscasts/bt 830p prep AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 04282023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06202023.MP3
+./Dad_Newscasts/bt M 7p newscast 10092023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12072023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 05292023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10252023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11072023.MP3
+./Dad_Newscasts/bt M 8p newscast 12122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06082023.MP3
+./Dad_Newscasts/bt M 7p newscast 05302023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10302023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09042023.MP3
+./Dad_Newscasts/bt M 10p newscast 12142023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 07032023.MP3
+./Dad_Newscasts/bt M 6p newscast 11292023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12122023.MP3
+./Dad_Newscasts/bt M 7p newscast 09052023.MP3
+./Dad_Newscasts/bt M 9p newscast 09072023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12132023.MP3
+./Dad_Newscasts/bt M 10p newscast 06062023.MP3
+./Dad_Newscasts/bt M 9p newscast 10032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 1020203.MP3
+./Dad_Newscasts/bt M 6p newscast 05102023.MP3
+./Dad_Newscasts/bt M 8p newscast 09062023.MP3
+./Dad_Newscasts/bt G1 Trump Class Docs 07052023 LONG w intro.MP3
+./Dad_Newscasts/bt M 8p newscast 11062023.MP3
+./Dad_Newscasts/bt M 7p newscast 06012023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11142023.MP3
+./Dad_Newscasts/bt M 7p newscast 10172023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 08242023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06282023.MP3
+./Dad_Newscasts/bt M 9p newscast 09082023.MP3
+./Dad_Newscasts/bt M 7p newscast 10192023.MP3
+./Dad_Newscasts/bt M 7p newscast 09222023.MP3
+./Dad_Newscasts/bt 8p newscast 05092023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09252023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08142023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08172023.MP3
+./Dad_Newscasts/bt M 8p newscast 07042023.MP3
+./Dad_Newscasts/bt M 9p newscast 06152023.MP3
+./Dad_Newscasts/bt M 7p newscast 04212023.MP3
+./Dad_Newscasts/bt M 7p newscast 06132023.MP3
+./Dad_Newscasts/bt M 10p newscast 12112023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12042023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10252023.MP3
+./Dad_Newscasts/bt M 9p newscast 10112023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12132023.MP3
+./Dad_Newscasts/bt M 10p newscast 07032023.MP3
+./Dad_Newscasts/bt M 10p newscast 06152023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05102023.MP3
+./Dad_Newscasts/bt M 7p newscast 10022023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 04212023.MP3
+./Dad_Newscasts/bt M 9p newscast 12112023.MP3
+./Dad_Newscasts/bt M 9p newscast 09012023.MP3
+./Dad_Newscasts/bt M 8p newscast 12132023.MP3
+./Dad_Newscasts/bt M 8p newscast 05032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11282023.MP3
+./Dad_Newscasts/bt M 3p newscast 08232023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08242023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12082023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08302023.MP3
+./Dad_Newscasts/bt M 8p newscast 09202023.MP3
+./Dad_Newscasts/bt G1 Russ Ukr Poisoning 11282023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08012023.MP3
+./Dad_Newscasts/bt M 8p newscast 10032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06202023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05312023.MP3
+./Dad_Newscasts/bt M 9p newscast 06012023.MP3
+./Dad_Newscasts/bt M 10p newscast 06022023.MP3
+./Dad_Newscasts/bt M 10p newscast 09282023.MP3
+./Dad_Newscasts/bt M 5p newscast 08232023.MP3
+./Dad_Newscasts/bt M 10p newscast 12132023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10172023.MP3
+./Dad_Newscasts/bt W1 Congress Ukraine 12052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09072023.MP3
+./Dad_Newscasts/bt M 10p newscast 11172023.MP3
+./Dad_Newscasts/bt M 8p newscast 08212023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11062023.MP3
+./Dad_Newscasts/bt M 7p newscast 06022023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10132023.MP3
+./Dad_Newscasts/bt M 7p newscast 12132023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10302023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06272023.MP3
+./Dad_Newscasts/bt M 9p newscast 06192023.MP3
+./Dad_Newscasts/bt M 10p newscast 05112023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 08242023.MP3
+./Dad_Newscasts/bt M 10p newscast 07262023.MP3
+./Dad_Newscasts/bt M 10p newscast 06052023.MP3
+./Dad_Newscasts/bt M 7p newscast 08282023.MP3
+./Dad_Newscasts/bt M 8p newscast 04242023.MP3
+./Dad_Newscasts/bt M 7p newscast 08162023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05102023.MP3
+./Dad_Newscasts/bt M 7p newscast 05312023.MP3
+./Dad_Newscasts/bt M 10p newscast 07172023.MP3
+./Dad_Newscasts/bt M 8p newscast 10172023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06162023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06212023.MP3
+./Dad_Newscasts/bt M 6p newscast 10022023.MP3
+./Dad_Newscasts/bt M 7p newscast 07042023.MP3
+./Dad_Newscasts/bt V1s Trump Insurrection 11152023.MP3
+./Dad_Newscasts/bt M 6p newscast 06022023.MP3
+./Dad_Newscasts/bt M 8p newscast 10312023.MP3
+./Dad_Newscasts/bt M 6p newscast 12112023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10042023.MP3
+./Dad_Newscasts/bt M 7p newscast 10242023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11302023.MP3
+./Dad_Newscasts/bt W1sb Ill books 06122023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 10262023.MP3
+./Dad_Newscasts/bt M 6p newscast 09292023.MP3
+./Dad_Newscasts/bt M 7p newscast 06072023.MP3
+./Dad_Newscasts/bt M 8p newscast 05122023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07122023.MP3
+./Dad_Newscasts/bt M 6p newscast 10312023.MP3
+./Dad_Newscasts/bt M 6p newscast 09072023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06092023.MP3
+./Dad_Newscasts/bt M 10p newscast 07182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05292023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11072023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09262023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05102023.MP3
+./Dad_Newscasts/bt G1 Trump Capitol Riot 10252023 LONG w intro.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09052023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08312023.MP3
+./Dad_Newscasts/bt M 9p newscast 07032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08182023.MP3
+./Dad_Newscasts/bt G1 Fed Skip 05312023 LONG w intro.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 08142023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08162023.MP3
+./Dad_Newscasts/bt G2 Obit Kissinger early life 11292023 LONG w intro.MP3
+./Dad_Newscasts/bt M 9p newscast 11092023.MP3
+./Dad_Newscasts/bt M 6p newscast 07172023.MP3
+./Dad_Newscasts/bt M 8p newscast 10182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07312023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08302023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10172023.MP3
+./Dad_Newscasts/bt M 7p newscast 06092023.MP3
+./Dad_Newscasts/bt M 9p newscast 10122023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11302023.MP3
+./Dad_Newscasts/bt M 8p newscast 08222023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11032023.MP3
+./Dad_Newscasts/bt M 6p newscast 06192023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07182023.MP3
+./Dad_Newscasts/bt M 8p newscast 12052023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06052023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07192023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11142023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10232023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10242023.MP3
+./Dad_Newscasts/bt M 7p newscast 06212023.MP3
+./Dad_Newscasts/bt M 10p newscast 04252023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 06262023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11012023.MP3
+./Dad_Newscasts/bt M 10p newscast 08022023.MP3
+./Dad_Newscasts/bt M 6p newscast 11072023.MP3
+./Dad_Newscasts/bt 10p newscast 11142023.MP3
+./Dad_Newscasts/bt M 530p NewsWatch 11092023.MP3
+./Dad_Newscasts/bt M 7u newscast 04212023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09212023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11092023.MP3
+./Dad_Newscasts/bt 530p AP Newswatch 09272023.MP3
+./Dad_Newscasts/bt M 6p newscast 07192023.MP3
+./Dad_Newscasts/bt M 9p newscast 09062023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 07042023.MP3
+./Dad_Newscasts/bt M 6p newscast 04282023.MP3
+./Dad_Newscasts/bt M 10p newscast 10042023.MP3
+./Dad_Newscasts/bt Vss Climate Atlantic 07262023.MP3
+./Dad_Newscasts/bt W1 Zelenskyy Canada 09212023.MP3
+./Dad_Newscasts/bt M 9p newscast 05312023.MP3
+./Dad_Newscasts/bt 7p newscast 05092023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05022023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11152023.MP3
+./Dad_Newscasts/bt M 6p newscast 08172023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11202023.MP3
+./Dad_Newscasts/bt M 7p newscast 09252023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06082023.MP3
+./Dad_Newscasts/bt M 9p newscast 04252023.MP3
+./Dad_Newscasts/bt M 9p newscast 07282023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10182023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11222023.MP3
+./Dad_Newscasts/bt G1 Ukraine Tanks 05112023 LONG w intro.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 04212023.MP3
+./Dad_Newscasts/bt M 4p newscast 08232023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08212023.MP3
+./Dad_Newscasts/bt M 10p newscast 07192023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11012023.MP3
+./Dad_Newscasts/bt M 6p newscast 06052023.MP3
+./Dad_Newscasts/bt G1 Migrants Winter 1116202 LONG w intro.MP3
+./Dad_Newscasts/bt W1m hostages Is Pals Cease-Fire 11232023.MP3
+./Dad_Newscasts/bt M 10p newscast 08012023.MP3
+./Dad_Newscasts/bt M 10p newscast 08152023.MP3
+./Dad_Newscasts/bt M 9p newscast 08172023.MP3
+./Dad_Newscasts/bt M 8p newscast 08242023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07042023.MP3
+./Dad_Newscasts/bt M 9p newscast 08042023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05312023.MP3
+./Dad_Newscasts/bt W1 Fed Prisons 07112023.MP3
+./Dad_Newscasts/bt Q1 EU AI 12082023 at the earliest.MP3
+./Dad_Newscasts/bt M 8p newscast 10232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09192023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 12012023.MP3
+./Dad_Newscasts/bt M 10p newscast 11062023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 08222023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09262023.MP3
+./Dad_Newscasts/bt M 6p newscast 06262023.MP3
+./Dad_Newscasts/bt M 8p newscast 11152023.MP3
+./Dad_Newscasts/bt M 8p newscast 06272023.MP3
+./Dad_Newscasts/bt M 7p newscast 11102023.MP3
+./Dad_Newscasts/bt M 10p newscast 10132023.MP3
+./Dad_Newscasts/bt M 8p newscast 09012023.MP3
+./Dad_Newscasts/bt M 9p newscast 07122023.MP3
+./Dad_Newscasts/bt M 9p newscast 12142023.MP3
+./Dad_Newscasts/bt M 7p newscast 09212023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 04282023.MP3
+./Dad_Newscasts/bt M 7p newscast 06142023.MP3
+./Dad_Newscasts/bt M 9p newscast 04242023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10102023.MP3
+./Dad_Newscasts/bt M 6p newscast 10132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05302023.MP3
+./Dad_Newscasts/bt G1 Debt Limit 05292023 LONG w intro.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10032023.MP3
+./Dad_Newscasts/bt M 7p newscast 07032023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09202023.MP3
+./Dad_Newscasts/bt G1 Justice Jan 6 06272023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09202023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 04272023.MP3
+./Dad_Newscasts/bt M 9p newscast 12072023.MP3
+./Dad_Newscasts/bt M 10p newscast 06122023.MP3
+./Dad_Newscasts/bt M 7p newscast 04252023.MP3
+./Dad_Newscasts/bt M 10p newscast 10312023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07042023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05022023.MP3
+./Dad_Newscasts/bt M 8p newscast 04252023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 11242023.MP3
+./Dad_Newscasts/bt M 10p newscast 06202023.MP3
+./Dad_Newscasts/bt M 10p newscast 10182023.MP3
+./Dad_Newscasts/bt W1 Debt Limit 05292023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt M 7p newscast 10202023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08312023.MP3
+./Dad_Newscasts/bt M 7p newscast 09062023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11022023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 0904202.MP3
+./Dad_Newscasts/bt G1 Mona Lisa 10112023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07272023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 1020203.MP3
+./Dad_Newscasts/bt G1 Congress Hunter Biden 11082023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast 10172023.MP3
+./Dad_Newscasts/bt M 8p newscast 05022023.MP3
+./Dad_Newscasts/bt F 10p newscast 11232023.MP3
+./Dad_Newscasts/bt M 7p newscast 12012023.MP3
+./Dad_Newscasts/bt M 9p newscast 10232023.MP3
+./Dad_Newscasts/bt M 10p newscast 11132023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12122023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08222023.MP3
+./Dad_Newscasts/bt W1 Is-Pals blame 10172023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06162023.MP3
+./Dad_Newscasts/bt G1 Jill Biden COVID 09042023 LONG w intro.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12062023.MP3
+./Dad_Newscasts/bt M 10p newscast 08312023.MP3
+./Dad_Newscasts/bt 830p APNewsWatch 04272023.MP3
+./Dad_Newscasts/bt M 6p newscast 09252023.MP3
+./Dad_Newscasts/bt M 6p newscast 11282023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt M 6p newscast 08312023.MP3
+./Dad_Newscasts/bt M 10p newscast 07312023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11142023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09012023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09212023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12052023.MP3
+./Dad_Newscasts/bt M 7p newscast 07192023.MP3
+./Dad_Newscasts/bt M 9p newscast 10312023.MP3
+./Dad_Newscasts/bt M 8p newscast 06082023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 08222023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07032023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch F 08302023.MP3
+./Dad_Newscasts/bt M 8p newscast 11172023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05122023.MP3
+./Dad_Newscasts/bt G1 Mex Call Center 06062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 04272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10022023.MP3
+./Dad_Newscasts/bt M 8p newscast 09052023.MP3
+./Dad_Newscasts/bt M 10p newscast 11012023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 04272023.MP3
+./Dad_Newscasts/bt G1 Obit Andre Brougher 12122023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 10192023.MP3
+./Dad_Newscasts/bt M 6p newscast 10182023.MP3
+./Dad_Newscasts/bt M 7p newscast 11212023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09072023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt M 10p newscast 09292023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 06192023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10182023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10132023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06052023.MP3
+./Dad_Newscasts/bt M 10p newscast 06272023.MP3
+./Dad_Newscasts/bt M 8p newscast 11132023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11152023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 11222023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12122023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06272023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07172023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11302023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10032023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10312023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11022023.MP3
+./Dad_Newscasts/bt M 9p newscast 06122023.MP3
+./Dad_Newscasts/bt M 10p newscast 12052023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08012023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07042023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10102023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06092023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08212023.MP3
+./Dad_Newscasts/bt M 9p newscast 06262023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11072023.MP3
+./Dad_Newscasts/bt M 9p newscast 09192023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06152023.MP3
+./Dad_Newscasts/bt M 9p newscast 07252023.MP3
+./Dad_Newscasts/bt M 9p newscast 06062023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11212023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12142023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11212023.MP3
+./Dad_Newscasts/bt M 6p newscast 10232023.MP3
+./Dad_Newscasts/bt F 10p newcast 10112023.MP3
+./Dad_Newscasts/bt W1s IsPals WHO hospitals 11202023.MP3
+./Dad_Newscasts/bt M 9p newscast 10262023.MP3
+./Dad_Newscasts/bt G1 Gravitational Waves 06282023 LONG w intro.MP3
+./Dad_Newscasts/bt F 9p newscast 09222023.MP3
+./Dad_Newscasts/bt G1 Is Pals 11022023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 09282023.MP3
+./Dad_Newscasts/bt M 10p newscast 12042023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09252023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12072023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05092023.MP3
+./Dad_Newscasts/bt M 7p newscast 08302023.MP3
+./Dad_Newscasts/bt M 9p newscast 12012023.MP3
+./Dad_Newscasts/bt M 7p newscast 04262023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11232023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09222023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06142023.MP3
+./Dad_Newscasts/bt M 10p newscast 05292023.MP3
+./Dad_Newscasts/bt M 9p newscast 05112023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12142023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11232023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06152023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06022023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09202023.MP3
+./Dad_Newscasts/bt M 6p newscast 12122023.MP3
+./Dad_Newscasts/bt M 6p newscast 05292023.MP3
+./Dad_Newscasts/bt M 8p newscast 11072023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 11012023.MP3
+./Dad_Newscasts/bt M 7p newscast 04242023.MP3
+./Dad_Newscasts/bt M 9p newscast 10052023.MP3
+./Dad_Newscasts/bt M 9p newcast 11162023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10092023.MP3
+./Dad_Newscasts/bt M 10p newscast 09012023.MP3
+./Dad_Newscasts/bt M 8p newscast 12012023.MP3
+./Dad_Newscasts/bt M 6p newscast 06142023.MP3
+./Dad_Newscasts/bt M 7p newscast 10122023.MP3
+./Dad_Newscasts/bt M 7p newscast 06202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12082023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11062023.MP3
+./Dad_Newscasts/bt M 10p newscast 08172023.MP3
+./Dad_Newscasts/bt W1 Is Pals 12142023.MP3
+./Dad_Newscasts/bt M 7p newscast 04272023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05092023.MP3
+./Dad_Newscasts/bt M 9p newscast 10202023.MP3
+./Dad_Newscasts/bt M 7p newscast 11032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10312023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06062023.MP3
+./Dad_Newscasts/bt M 8p newscast 10112023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07122023.MP3
+./Dad_Newscasts/bt M 8p newscast 06092023.MP3
+./Dad_Newscasts/bt M 10p newscast 09272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06012023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05112023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09212023.MP3
+./Dad_Newscasts/bt M 9p newscast 11242023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt G1 Calif Insurance 06052023 LONG w intro.MP3
+./Dad_Newscasts/bt 7p newscast 11142023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11212023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 07262023.MP3
+./Dad_Newscasts/bt G1 Is Pal Hostage Demos 12152023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10132023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10102023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 04272023.MP3
+./Dad_Newscasts/bt F 530p AP NewsWatch 12052023.MP3
+./Dad_Newscasts/bt M 7p newscast 06082023.MP3
+./Dad_Newscasts/bt M 6p newscast 06212023.MP3
+./Dad_Newscasts/bt M 6p newscast 05022023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05112023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06202023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12012023.MP3
+./Dad_Newscasts/bt M 6p newscast 09082023.MP3
+./Dad_Newscasts/bt M 7p newscast 12122023.MP3
+./Dad_Newscasts/bt M 8p newscast 11302023.MP3
+./Dad_Newscasts/bt W1 Is-Pals IDF hospital 11132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06132023.MP3
+./Dad_Newscasts/bt M 10p newscast 11072023.MP3
+./Dad_Newscasts/bt M 8p newscast 06192023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09072023.MP3
+./Dad_Newscasts/bt M 9p newscast10182023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 09292023.MP3
+./Dad_Newscasts/bt M 8p newscast 09282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12112023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10062023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 09072023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08042023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 08042023.MP3
+./Dad_Newscasts/bt M 8p newscast 09042023.MP3
+./Dad_Newscasts/bt M 9p newscast 06132023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08172023.MP3
+./Dad_Newscasts/bt M 9p newscast 10172023.MP3
+./Dad_Newscasts/bt M 8p newscast 11012023.MP3
+./Dad_Newscasts/bt G2 Auto Strike 10252023 LONG w intro.MP3
+./Dad_Newscasts/bt M 8p newscast 05292023.MP3
+./Dad_Newscasts/bt G1 ESPN Charter Spectrum 08312023 LONG w intro.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10262023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12012023.MP3
+./Dad_Newscasts/bt M 10p newscast 06082023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 11132023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05312023.MP3
+./Dad_Newscasts/bt M 10p newscast 11292023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08172023.MP3
+./Dad_Newscasts/bt M 7p newscast 08242023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08022023.MP3
+./Dad_Newscasts/bt M 9p newscast 10302023.MP3
+./Dad_Newscasts/bt 6p newscast 11142023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt M 6p newscast 06202023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11092023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08252023.MP3
+./Dad_Newscasts/bt M 9p newscast 09042023.MP3
+./Dad_Newscasts/bt M 7p newscast 12142023.MP3
+./Dad_Newscasts/bt G1f Is Pals Cease-Fire 11212023 LONG w intro.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 04252023.MP3
+./Dad_Newscasts/bt 930p APNewsWatch 07262023.MP3
+./Dad_Newscasts/bt M 9p newscast 11032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08012023.MP3
+./Dad_Newscasts/bt M 6p newscast 06092023.MP3
+./Dad_Newscasts/bt G1 Elec 2024 Trump 09272023  LONG w intro.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11162023.MP3
+./Dad_Newscasts/bt M 7p newscast 07272023.MP3
+./Dad_Newscasts/bt M 8p newscast 10062023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 04282023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10312023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07242023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10182023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06052023.MP3
+./Dad_Newscasts/bt M 6p newscast 12082023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11032023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 06282023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12152023.MP3
+./Dad_Newscasts/bt M 9p newscast 06052023.MP3
+./Dad_Newscasts/bt M 9p newscast 05022023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09052023.MP3
+./Dad_Newscasts/bt M 10p newscast update 09082023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09192023.MP3
+./Dad_Newscasts/bt 230p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt M 8p newscast 06212023.MP3
+./Dad_Newscasts/bt M 8p newscast 07032023.MP3
+./Dad_Newscasts/bt M 7p newscast 10232023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 06212023.MP3
+./Dad_Newscasts/bt G1 Epstein 06012023 LONG w intro.MP3
+./Dad_Newscasts/bt M 8p newscast 11162023.MP3
+./Dad_Newscasts/bt M 6p newscast 07242023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07052023.MP3
+./Dad_Newscasts/bt M 8p newscast 06072023.MP3
+./Dad_Newscasts/bt W1m Is-Pals Shifa 11222023.MP3
+./Dad_Newscasts/bt M 7p newscast 05022023.MP3
+./Dad_Newscasts/bt Fn 10p newscast 06282023.MP3
+./Dad_Newscasts/bt G1 Hot Ocean 07252023.MP3
+./Dad_Newscasts/bt F 10p newscast 11152023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12042023.MP3
+./Dad_Newscasts/bt M 9p newscast 10242023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11142023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11072023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 07102023.MP3
+./Dad_Newscasts/bt M 9p newscast 12052023.MP3
+./Dad_Newscasts/bt V1l Climate Atlantic 07262023.MP3
+./Dad_Newscasts/bt G1 Biden Is-Pals 11012023 LONG w intro.MP3
+./Dad_Newscasts/bt M 7p newscast 06062023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10062023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08212023.MP3
+./Dad_Newscasts/bt M 10p newscast 05302023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 04252023.MP3
+./Dad_Newscasts/bt M 9p newscast 07262023.MP3
+./Dad_Newscasts/bt M 6p newscast 12052023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07102023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11012023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 05292023.MP3
+./Dad_Newscasts/bt M 6p newwscast 06082023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12082023.MP3
+./Dad_Newscasts/bt M 8p newscast 10022023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11242023.MP3
+./Dad_Newscasts/bt M 9p newscast 07042023.MP3
+./Dad_Newscasts/bt M 8p newscast 06142023.MP3
+./Dad_Newscasts/bt M 7p newscast 10312023.MP3
+./Dad_Newscasts/bt M 10p newscast 08042023.MP3
+./Dad_Newscasts/bt M 10p newscast 06192023 - Copy.MP3
+./Dad_Newscasts/bt M 7p newscast 08152023.MP3
+./Dad_Newscasts/bt M 10p newscast 07252023.MP3
+./Dad_Newscasts/bt G1 AI The Courts 06082023 LONG w intro.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 04242023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 08142023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 05292023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11142023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10092023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09292023.MP3
+./Dad_Newscasts/bt M 10p newscast 11202023.MP3
+./Dad_Newscasts/bt M 8p newscast 07102023.MP3
+./Dad_Newscasts/bt M 7p newscast 11202023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12142023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08152023.MP3
+./Dad_Newscasts/bt M 8p newscast 09252023.MP3
+./Dad_Newscasts/bt G1 Elec 2023 Ohio Abortion 11072023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11132023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 11282023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 06282023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 08242023.MP3
+./Dad_Newscasts/bt M 7p newscast 10182023.MP3
+./Dad_Newscasts/bt M 7p newscast 08292023.MP3
+./Dad_Newscasts/bt M 8p newscast 11222023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10052023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt M 6p newscast 10102023.MP3
+./Dad_Newscasts/bt M 6p newscast 12042023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 04262023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10242023.MP3
+./Dad_Newscasts/bt M 9p newscast 11282023.MP3
+./Dad_Newscasts/bt M 9p newscast 10062023.MP3
+./Dad_Newscasts/bt U 10p newscast 10252023.MP3
+./Dad_Newscasts/bt M 7p newscast 07102023.MP3
+./Dad_Newscasts/bt M 10p newscast 10302023.MP3
+./Dad_Newscasts/bt M 8p newscast 10042023.MP3
+./Dad_Newscasts/bt M 9p newscast 08142023.MP3
+./Dad_Newscasts/bt M 8p newscast 11212023.MP3
+./Dad_Newscasts/bt M 9p newscast 10252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08252023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09012023.MP3
+./Dad_Newscasts/bt M 8p newscast 06062023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10242023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07112023.MP3
+./Dad_Newscasts/bt M 7p newscast 05032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11222023.MP3
+./Dad_Newscasts/bt M 10p newscast 10202023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11162023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11212023.MP3
+./Dad_Newscasts/bt M 8p newscast 06122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07312023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09272023.MP3
+./Dad_Newscasts/bt M 8p newscast 08142023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07182023.MP3
+./Dad_Newscasts/bt M 10p newscast 06132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08042023.MP3
+./Dad_Newscasts/bt M 8p newscast 12142023.MP3
+./Dad_Newscasts/bt M 10p newscast 06162023.MP3
+./Dad_Newscasts/bt M 6p newscast 07282023.MP3
+./Dad_Newscasts/bt M 6p newscast 11222023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10132023.MP3
+./Dad_Newscasts/bt M 7p newscast 11292023.MP3
+./Dad_Newscasts/bt M 6p newscast 06162023.MP3
+./Dad_Newscasts/bt M 10p newscast 08142023.MP3
+./Dad_Newscasts/bt M 8p newscast 08152023.MP3
+./Dad_Newscasts/bt M 8p newscast 08302023.MP3
+./Dad_Newscasts/bt M 9p newscast 12042023.MP3
+./Dad_Newscasts/bt M 6p newscast 06122023.MP3
+./Dad_Newscasts/bt G2 Elec 2024 Trump CNN Ukraine 05102023 LONG w intro.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 11172023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 07032023.MP3
+./Dad_Newscasts/bt M 7p newscast 10102023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07252023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 11232023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 11062023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07252023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05022023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12142023.MP3
+./Dad_Newscasts/bt M 6p newscast 11102023.MP3
+./Dad_Newscasts/bt M 7p newscast 10042023.MP3
+./Dad_Newscasts/bt M 10p newscast 09252023.MP3
+./Dad_Newscasts/bt M 8p newscast 10252023.MP3
+./Dad_Newscasts/bt M 9p newscast 08302023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11202023.MP3
+./Dad_Newscasts/bt M 8p newscast 07252023.MP3
+./Dad_Newscasts/bt W1 Colombia 06092023.MP3
+./Dad_Newscasts/bt M 10p newscast UPDATED 05312023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09052023.MP3
+./Dad_Newscasts/bt M 9p newscast 09282023.MP3
+./Dad_Newscasts/bt M 9p newscast 08242023.MP3
+./Dad_Newscasts/bt M 10p newscast 08242023.MP3
+./Dad_Newscasts/bt M 9p newscast 06272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06062023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08152023.MP3
+./Dad_Newscasts/bt M 6p newscast 08252023.MP3
+./Dad_Newscasts/bt M 6p newscast 06072023.MP3
+./Dad_Newscasts/bt M 6p newscast 12072023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10092023.MP3
+./Dad_Newscasts/bt G1f IsPals WHO hospitals 11202023 LONG w intro.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 12132023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 1020203.MP3
+./Dad_Newscasts/bt M 7p newscast 06162023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10042023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt M 8p newscast 12152023.MP3
+./Dad_Newscasts/bt M 7p newscast 10052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05302023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 06132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12082023.MP3
+./Dad_Newscasts/bt G1f Colombia 06092023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 10252023.MP3
+./Dad_Newscasts/bt M 9p newscast 10272023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 04242023.MP3
+./Dad_Newscasts/bt M 9p newscast 08222023.MP3
+./Dad_Newscasts/bt M 10p newscast 10192023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12042023.MP3
+./Dad_Newscasts/bt M 7p newscast 11022023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 04252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11202023.MP3
+./Dad_Newscasts/bt M 7p newscast 08032023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08022023.MP3
+./Dad_Newscasts/bt 630p AP Newswatch 10242023.MP3
+./Dad_Newscasts/bt M 6p newscast 05312023.MP3
+./Dad_Newscasts/bt M 6p newscast 10092023.MP3
+./Dad_Newscasts/bt M 6p newscast 11202023.MP3
+./Dad_Newscasts/bt M 10p newscast 06012023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 0782023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11072023.MP3
+./Dad_Newscasts/bt M 6p newscast 09192023.MP3
+./Dad_Newscasts/bt M 7p newscast 10132023.MP3
+./Dad_Newscasts/bt M 8p newscast 10302023.MP3
+./Dad_Newscasts/bt M 9p newscast 06162023.MP3
+./Dad_Newscasts/bt M 6p newscast 06272023.MP3
+./Dad_Newscasts/bt M 10p newscast 11162023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05022023.MP3
+./Dad_Newscasts/bt 10p newscast 05092023.MP3
+./Dad_Newscasts/bt M 6p newscast 12132023.MP3
+./Dad_Newscasts/bt M 10p newscast 10272023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11172023.MP3
+./Dad_Newscasts/bt M 6p newscast 04272023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08172023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07112023.MP3
+./Dad_Newscasts/bt M 7p newscast 11272023.MP3
+./Dad_Newscasts/bt M 6p newscast 07312023.MP3
+./Dad_Newscasts/bt G1 Cal Rail Emissions 04272023 LONG w intro.MP3
+./Dad_Newscasts/bt M 8p newscast 12112023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08302023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09082023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05112023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 08222023.MP3
+./Dad_Newscasts/bt M 6p newscast 07122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08182023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06022023.MP3
+./Dad_Newscasts/bt M 6p newscast 06132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10312023.MP3
+./Dad_Newscasts/bt G1 Mars China Rover 04282023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06202023.MP3
+./Dad_Newscasts/bt M 9p newscast 11102023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10252023.MP3
+./Dad_Newscasts/bt M 8p newscast 07172023.MP3
+./Dad_Newscasts/bt M 7p newscast 07112023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt M 7p newscast 11232023.MP3
+./Dad_Newscasts/bt M 8p newscast 08032023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07172023.MP3
+./Dad_Newscasts/bt M 8p newscast 05112023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt M 6p newscast 06062023.MP3
+./Dad_Newscasts/bt M 10p newscast 04262023.MP3
+./Dad_Newscasts/bt M 10p newscast 06262023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 04262023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 05122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06272023.MP3
+./Dad_Newscasts/bt M 6p newscast 11062023.MP3
+./Dad_Newscasts/bt V2 Trump Class Docs 07052023 Nauta.MP3
+./Dad_Newscasts/bt M 6p newscast 11092023.MP3
+./Dad_Newscasts/bt M 9p newscast 09262023.MP3
+./Dad_Newscasts/bt M 6p newscast 11152023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08012023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09222023.MP3
+./Dad_Newscasts/bt M 9p newscast 06022023.MP3
+./Dad_Newscasts/bt M 8p newscast 06282023.MP3
+./Dad_Newscasts/bt M 6p newscast 07032023.MP3
+./Dad_Newscasts/bt M 7p newscast sof 05122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08012023.MP3
+./Dad_Newscasts/bt 930p APNewsWatch 11102023.MP3
+./Dad_Newscasts/bt M 8p newscast 10102023.MP3
+./Dad_Newscasts/bt M 6p newscast 11132023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06192023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06022023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 08162023.MP3
+./Dad_Newscasts/bt M 9p newscast 06142023.MP3
+./Dad_Newscasts/bt M 10p newscast 11032023.MP3
+./Dad_Newscasts/bt M 8p newscast 10092023.MP3
+./Dad_Newscasts/bt G1 Auto Strike 10262023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 05032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 04242023.MP3
+./Dad_Newscasts/bt 430p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07052023.MP3
+./Dad_Newscasts/bt M 10p newscast 08222023.MP3
+./Dad_Newscasts/bt M 9p newscast 07312023.MP3
+./Dad_Newscasts/bt M 7p newscast 12072023.MP3
+./Dad_Newscasts/bt M 7p newscast 09292023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09282023.MP3
+./Dad_Newscasts/bt M 9p newscast 08182023.MP3
+./Dad_Newscasts/bt M 7p newscast 10262023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 07102023.MP3
+./Dad_Newscasts/bt M 8p newscast 11282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10042023.MP3
+./Dad_Newscasts/bt G1 Russia NoKorea 09042023 LONG w intro.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 04212023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 07052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06022023.MP3
+./Dad_Newscasts/bt 530p AP Newswatch 11132023.MP3
+./Dad_Newscasts/bt M 7p newscast 09262023.MP3
+./Dad_Newscasts/bt M 7p newscast 06152023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 0904202.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10232023.MP3
+./Dad_Newscasts/bt F 830p AP NewsWatch 11242023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11012023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10102023.MP3
+./Dad_Newscasts/bt M 7p newscast 11302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06132023.MP3
+./Dad_Newscasts/bt M 8p newscast 10122023.MP3
+./Dad_Newscasts/bt M 8p newscast 05102023.MP3
+./Dad_Newscasts/bt M 10p newscast 04272023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05032023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06152023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06092023.MP3
+./Dad_Newscasts/bt M 8p newscast 08042023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09012023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06162023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11292023.MP3
+./Dad_Newscasts/bt M 8p newscast 11292023.MP3
+./Dad_Newscasts/bt 830p AP Newswatch 06012023.MP3
+./Dad_Newscasts/bt M 9p newscast 08022023.MP3
+./Dad_Newscasts/bt F 10p newscast 10122023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 08302023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt M 7p newscast 05102023.MP3
+./Dad_Newscasts/bt Q1 Debt Limit 05292023 such as food stamps.MP3
+./Dad_Newscasts/bt F 10p newscast 09212023.MP3
+./Dad_Newscasts/bt M 10p newscast 12072023.MP3
+./Dad_Newscasts/bt M 630p AP Newswatch 04262023.MP3
+./Dad_Newscasts/bt M 8p newscast 07272023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt M 6p newscast 10272023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt G1 Is-Pals IDF hospital 11132023 LONG w intro.MP3
+./Dad_Newscasts/bt M 9p newscast 06202023.MP3
+./Dad_Newscasts/bt M 10p newscast 10022023.MP3
+./Dad_Newscasts/bt M 9p newscast 05102023.MP3
+./Dad_Newscasts/bt M 9p newscast 07242023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt G1 Debt Limit 06012023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast 12062023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 04252023.MP3
+./Dad_Newscasts/bt M 10p newscast 08252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11162023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09292023.MP3
+./Dad_Newscasts/bt M 8p newscast 06162023.MP3
+./Dad_Newscasts/bt M 6p newscast 06012023.MP3
+./Dad_Newscasts/bt M 8p newscast 07242023.MP3
+./Dad_Newscasts/bt M 6p newscast 12142023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10092023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11022023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11162023.MP3
+./Dad_Newscasts/bt M 6p newscast 09062023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 04242023.MP3
+./Dad_Newscasts/bt G1 Bob Ross 09202023 LONG w intro.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06072023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 11162023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11092023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08182023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07112023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07282023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12052023.MP3
+./Dad_Newscasts/bt M 6p newscast 11242023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10192023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11172023.MP3
+./Dad_Newscasts/bt M 10p newscast 05022023.MP3
+./Dad_Newscasts/bt M 6p newscast 07262023.MP3
+./Dad_Newscasts/bt M 8p newscast 10052023.MP3
+./Dad_Newscasts/bt M 7p newscast 06052023.MP3
+./Dad_Newscasts/bt M 10p newscast 11092023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11232023.MP3
+./Dad_Newscasts/bt M 9p newscast 10132023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08312023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08212023.MP3
+./Dad_Newscasts/bt M 7p newscast 11162023.MP3
+./Dad_Newscasts/bt 730p AP Newswatch 11172023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06192023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06162023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10302023.MP3
+./Dad_Newscasts/bt M 6p newscast 05122023.MP3
+./Dad_Newscasts/bt M 10p newscast 08212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11292023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 04242023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09082023.MP3
+./Dad_Newscasts/bt M 8p newscast 09292023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10022023.MP3
+./Dad_Newscasts/bt M 7p newscast 12042023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11092023.MP3
+./Dad_Newscasts/bt 6p newscast 05092023.MP3
+./Dad_Newscasts/bt M 8p newscast 10132023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05032023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07032023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08152023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 11292023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11132023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 12122023.MP3
+./Dad_Newscasts/bt M 8p newscast 10202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08172023.MP3
+./Dad_Newscasts/bt M 6p newscast 10242023.MP3
+./Dad_Newscasts/bt M 8p newscast 12062023.MP3
+./Dad_Newscasts/bt M 6p newscast 04212023.MP3
+./Dad_Newscasts/bt M 10p newscast 10242023.MP3
+./Dad_Newscasts/bt M 8p newscast 10192023.MP3
+./Dad_Newscasts/bt M 10p newscast 07242023.MP3
+./Dad_Newscasts/bt M 10p newscast 07112023.MP3
+./Dad_Newscasts/bt M 7p newscast 11152023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 06282023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10172023.MP3
+./Dad_Newscasts/bt M 9p newscast 11292023.MP3
+./Dad_Newscasts/bt M 9p newscast 10092023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09012023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05032023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06012023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07192023.MP3
+./Dad_Newscasts/bt M 6p newscast 11162023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08292023.MP3
+./Dad_Newscasts/bt G1 Capitol Riot Tarrio 09052023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06082023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07192023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08152023.MP3
+./Dad_Newscasts/bt M 6p newscast 12012023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 06082023.MP3
+./Dad_Newscasts/bt M 8p newscast 05312023.MP3
+./Dad_Newscasts/bt M 6p newscast 11012023.MP3
+./Dad_Newscasts/bt M 10p newscast 06212023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11302023.MP3
+./Dad_Newscasts/bt M 7p newscast 07052023.MP3
+./Dad_Newscasts/bt 630p AP Newswatch 11132023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12142023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10202023.MP3
+./Dad_Newscasts/bt M 7p newscast 08222023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07192023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 07312023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 12112023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11152023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09082023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 09272023.MP3
+./Dad_Newscasts/bt M 10p newscast 11212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11102023.MP3
+./Dad_Newscasts/bt M 10p newscast 10112023.MP3
+./Dad_Newscasts/bt M 9p newscast 11022023.MP3
+./Dad_Newscasts/bt M 8p newscast 10262023.MP3
+./Dad_Newscasts/bt M 8p newscast 09222023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09042023.MP3
+./Dad_Newscasts/bt M 10p newscast 11082023p.MP3
+./Dad_Newscasts/bt G1 Congress Electric Vehicles 12062023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast 09222023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 05112023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12072023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt M 9p newscast 06092023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 05292023.MP3
+./Dad_Newscasts/bt F 9p newscast 11302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07252023.MP3
+./Dad_Newscasts/bt M 7p newscast 08232023.MP3
+./Dad_Newscasts/bt 930p AP Newswatch 11032023.MP3
+./Dad_Newscasts/bt M 8p newscast 08022023.MP3
+./Dad_Newscasts/bt M 8p newscast 09072023.MP3
+./Dad_Newscasts/bt M 6p newscast 05302023.MP3
+./Dad_Newscasts/bt M 10p newscast 04212023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10062023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09052023.MP3
+./Dad_Newscasts/bt M 7p newscast 09012023.MP3
+./Dad_Newscasts/bt M 7p newscast 08182023.MP3
+./Dad_Newscasts/bt M 6p newscast 08022023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05022023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08252023.MP3
+./Dad_Newscasts/bt M 9p newscast 06072023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 09262023.MP3
+./Dad_Newscasts/bt M 10p newscast 07052023.MP3
+./Dad_Newscasts/bt M 7p newscast 05292023.MP3
+./Dad_Newscasts/bt M 6p newscast 08302023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06162023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 04262023.MP3
+./Dad_Newscasts/bt M 8p newscast 11272023.MP3
+./Dad_Newscasts/bt M 8p newscast 06052023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12152023.MP3
+./Dad_Newscasts/bt M 6p newscast 04252023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt M 9p newscast 09292023.MP3
+./Dad_Newscasts/bt M 7p newscast 11092023.MP3
+./Dad_Newscasts/bt M 9p newscast 10022023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 08282023.MP3
+./Dad_Newscasts/bt M 9p newscast 11222023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06262023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08152023.MP3
+./Dad_Newscasts/bt M 10p newscast 11102023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06012023.MP3
+./Dad_Newscasts/bt M 8p newscast 09272023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 10232023.MP3
+./Dad_Newscasts/bt G1 UNSC Ukraine 10312023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 11302023.MP3
+./Dad_Newscasts/bt W1m Obit Andre Brougher 12122023.MP3
+./Dad_Newscasts/bt M 6p newscast 07052023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt M 10p newscast 08182023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07172023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07312023.MP3
+./Dad_Newscasts/bt M 9p newscast 09252023.MP3
+./Dad_Newscasts/bt M 7p newscast 10272023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05302023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07172023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11292023.MP3
+./Dad_Newscasts/bt M 8p newscast 08312023.MP3
+./Dad_Newscasts/bt F 9p newscast 08032023.MP3
+./Dad_Newscasts/bt M 6p newscast 12062023.MP3
+./Dad_Newscasts/bt F G1 Apple iPhone 08152023 LONG w intro.MP3
+./Dad_Newscasts/bt G1 Trump Insurrection 11152023 LONG w intro.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10062023.MP3
+./Dad_Newscasts/bt 8p newscast 11142023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 07182023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08042023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09252023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10022023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09082023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08292023.MP3
+./Dad_Newscasts/bt M 9p newscast 06212023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07032023.MP3
+./Dad_Newscasts/bt M 7p newscast 07312023.MP3
+./Dad_Newscasts/bt M 9p newscast 08232023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 04262023.MP3
+./Dad_Newscasts/bt M 6p newscast 10202023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10262023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 09202023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 08222023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12052023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08182023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 07242023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07262023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08292023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06142023.MP3
+./Dad_Newscasts/bt V1 topline Epstein 06012023.MP3
+./Dad_Newscasts/bt M 6p newscast 07102023.MP3
+./Dad_Newscasts/bt M 6p newscast 07042023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 11102023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 09282023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 07042023.MP3
+./Dad_Newscasts/bt M 10p newcast 11022023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 06262023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 06052023.MP3
+./Dad_Newscasts/bt M 6p newscast 10172023.MP3
+./Dad_Newscasts/bt G1 Zelenskyy Canada 09212023 LONG w intro.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06082023.MP3
+./Dad_Newscasts/bt M 7p newscast 05112023.MP3
+./Dad_Newscasts/bt M 8p newscast 07112023.MP3
+./Dad_Newscasts/bt M 6p newscast 11082023.MP3
+./Dad_Newscasts/bt M 7p newscast 11222023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05122023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07172023.MP3
+./Dad_Newscasts/bt M 7p newscast 12052023.MP3
+./Dad_Newscasts/bt M 7p newscast 07182023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 07282023.MP3
+./Dad_Newscasts/bt M 10p newscast 08032023.MP3
+./Dad_Newscasts/bt M 6p newscast 08042023.MP3
+./Dad_Newscasts/bt M 7p newscast 11082023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11282023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 10232023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08282023.MP3
+./Dad_Newscasts/bt M 10p newscast 09052023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10172023.MP3
+./Dad_Newscasts/bt M 6p newscast 04242023.MP3
+./Dad_Newscasts/bt M 6p newscast 11032023.MP3
+./Dad_Newscasts/bt M 10p newscast 07282023.MP3
+./Dad_Newscasts/bt M 7p newscast 07122023.MP3
+./Dad_Newscasts/bt V3 Elec 2024 Trump CNN 05102023 sexual assault.MP3
+./Dad_Newscasts/bt G1 Biden Israel 07172023 LONG w intro.MP3
+./Dad_Newscasts/bt M 8p newscast 12042023.MP3
+./Dad_Newscasts/bt M 6p newscast 10122023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08212023.MP3
+./Dad_Newscasts/bt M 7p newscast 06122023.MP3
+./Dad_Newscasts/bt M 7p newscast 11282023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09222023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 07052023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10032023.MP3
+./Dad_Newscasts/bt G1 Milk Cartons 11032023 LONG w intro.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10022023.MP3
+./Dad_Newscasts/bt G1 COP 28 Gore 12042023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 08142023.MP3
+./Dad_Newscasts/bt M 10p newscast 10102023.MP3
+./Dad_Newscasts/bt M 6p newscast 04262023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 07272023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09262023.MP3
+./Dad_Newscasts/bt G1 Trump Taxes Lawsuit 05032023 LONG w intro.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 12112023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09192023.MP3
+./Dad_Newscasts/bt M 6p newscast 08282023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 09062023.MP3
+./Dad_Newscasts/bt M 8p newscast 11032023.MP3
+./Dad_Newscasts/bt M 6p newscast 08182023.MP3
+./Dad_Newscasts/bt M 9p newscast 11082023.MP3
+./Dad_Newscasts/bt M 8p newscast 08282023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 10262023.MP3
+./Dad_Newscasts/bt M 6p newscast 09012023.MP3
+./Dad_Newscasts/bt M 10p newscast 12082023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09072023.MP3
+./Dad_Newscasts/bt M 6p newscast 12152023.MP3
+./Dad_Newscasts/bt M 6p newscast 10042023.MP3
+./Dad_Newscasts/bt M 8p newscast 10242023.MP3
+./Dad_Newscasts/bt M 7p newscast 06282023.MP3
+./Dad_Newscasts/bt M 10p newscast 11272023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08292023.MP3
+./Dad_Newscasts/bt G2 FINAL Is Pals 2-state 12142023 LONG w intro.MP3
+./Dad_Newscasts/bt M 7p newscast 08012023.MP3
+./Dad_Newscasts/bt G1 Fed Prisons 07112023.MP3
+./Dad_Newscasts/bt M 6p newscast 08162023.MP3
+./Dad_Newscasts/bt M 9p newscast 04282023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 05102023.MP3
+./Dad_Newscasts/bt M 6p newscast 08212023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 10302023.MP3
+./Dad_Newscasts/bt M 9p newscast 11062023.MP3
+./Dad_Newscasts/bt F 10p newscast 09202023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05102023.MP3
+./Dad_Newscasts/bt M 6p newscast 11022023.MP3
+./Dad_Newscasts/bt M 9p newscast 10042023.MP3
+./Dad_Newscasts/bt M 10p newscast 10052023.MP3
+./Dad_Newscasts/bt M 8p newscast 07262023.MP3
+./Dad_Newscasts/bt M 8p newscast 04282023.MP3
+./Dad_Newscasts/bt M 9p newscast 11212023.MP3
+./Dad_Newscasts/bt G1 Russia Ukraine Military Aid 05022023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 09262023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 04212023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 10302023.MP3
+./Dad_Newscasts/bt G1 ALS Treatment 09272023 LONG w intro.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 12112023.MP3
+./Dad_Newscasts/bt M 8p newscast 11202023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 04282023.MP3
+./Dad_Newscasts/bt M 10p newscast 09062023.MP3
+./Dad_Newscasts/bt M 9p newscast 04212023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 06092023.MP3
+./Dad_Newscasts/bt M 9p newscast 07102023.MP3
+./Dad_Newscasts/bt M 9p newscast 08212023.MP3
+./Dad_Newscasts/bt M 10p newscast 08292023.MP3
+./Dad_Newscasts/bt M 6p newscast 11272023.MP3
+./Dad_Newscasts/bt M 9p newscast 05292023.MP3
+./Dad_Newscasts/bt G1 Climate US Natl Assessment 11142023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10252023.MP3
+./Dad_Newscasts/bt M 9p newscast 11202023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 11242023.MP3
+./Dad_Newscasts/bt M 8p newscast 09262023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 08312023.MP3
+./Dad_Newscasts/bt F 10p newscast 11222023.MP3
+./Dad_Newscasts/bt M 9p newscast 05122023.MP3
+./Dad_Newscasts/bt M 10p newscast 10092023.MP3
+./Dad_Newscasts/bt M 10p newscast 08302023.MP3
+./Dad_Newscasts/bt M 8p newscast 09192023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 12012023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06262023.MP3
+./Dad_Newscasts/bt M 8p newscast 06202023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 07192023.MP3
+./Dad_Newscasts/bt V3 response Epstein 06012023.MP3
+./Dad_Newscasts/bt M 6p newscast 09222023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 07052023.MP3
+./Dad_Newscasts/bt M 6p newscast 09052023.MP3
+./Dad_Newscasts/bt M 9p newscast 12122023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09282023.MP3
+./Dad_Newscasts/bt F 9p newscast 11172023.MP3
+./Dad_Newscasts/bt M 10p newscast 07042023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 06212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 05092023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 09262023.MP3
+./Dad_Newscasts/bt M 8p newscast 07192023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 09272023.MP3
+./Dad_Newscasts/bt M 7p newscast 06262023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 10032023.MP3
+./Dad_Newscasts/bt M 10p newscast 05102023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 09252023.MP3
+./Dad_Newscasts/bt M 6p newscast 10052023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08022023.MP3
+./Dad_Newscasts/bt M 930p AP NewsWatch 11212023.MP3
+./Dad_Newscasts/bt 130p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt M 9p newscast 07052023.MP3
+./Dad_Newscasts/bt M 9p newscast 12132023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 07242023.MP3
+./Dad_Newscasts/bt M 8p newscast 11082023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 07102023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11172023.MP3
+./Dad_Newscasts/bt M 10p newscast 09262023.MP3
+./Dad_Newscasts/bt M 7p newscast 12152023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 11102023.MP3
+./Dad_Newscasts/bt M 9p newscast 11132023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 10122023.MP3
+./Dad_Newscasts/bt M W1 Russ Belarus Wagner 0719202323.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 05312023.MP3
+./Dad_Newscasts/bt M 7p newscast 09042023.MP3
+./Dad_Newscasts/bt G1 Election 2023 Biden 04282023.MP3
+./Dad_Newscasts/bt M 8p newscast 10272023.MP3
+./Dad_Newscasts/bt V2l pschological state Epstein 06012023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 09012023.MP3
+./Dad_Newscasts/bt M 6p newscast 09212023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11222023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 10242023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 08252023.MP3
+./Dad_Newscasts/bt M 8p newscast 04272023.MP3
+./Dad_Newscasts/bt Fin 6p newscast 11172023.MP3
+./Dad_Newscasts/bt M 8p newscast 12072023.MP3
+./Dad_Newscasts/bt M 9p newscast 04262023.MP3
+./Dad_Newscasts/bt G1 Google Android App 12112023 LONG w intro.MP3
+./Dad_Newscasts/bt M 6p newscast 06152023.MP3
+./Dad_Newscasts/bt M 9p newscast 08292023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 07312023.MP3
+./Dad_Newscasts/bt M 9p newscast 09212023.MP3
+./Dad_Newscasts/bt M 10p newscast 06142023.MP3
+./Dad_Newscasts/bt M 8p newscast 11092023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11032023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 11102023.MP3
+./Dad_Newscasts/bt M 10p newscast 12012023.MP3
+./Dad_Newscasts/bt M 7p newscast 08022023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08232023.MP3
+./Dad_Newscasts/bt M 9p newscast 07192023.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 08292023.MP3
+./Dad_Newscasts/bt 830p AP NewsWatch 11282023.MP3
+./Dad_Newscasts/bt G1 Manhattanhenge 07122023 LONG w intro.MP3
+./Dad_Newscasts/bt 530p AP NewsWatch 05312023.MP3
+./Dad_Newscasts/bt M 7p newscast 11132023.MP3
+./Dad_Newscasts/bt M 9p newscast 07172023.MP3
+./Dad_Newscasts/bt W2m posture Is Pals Cease-Fire 11232023.MP3
+./Dad_Newscasts/bt 730p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 05032023.MP3
+./Dad_Newscasts/bt M 830p AP NewsWatch 12132023.MP3
+./Dad_Newscasts/bt M 630p AP NewsWatch 08142023.MP3
+./Dad_Newscasts/bt M 10p newscast 09072023.MP3
+./Dad_Newscasts/bt M 10p newscast 09192023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 11302023.MP3
+./Dad_Newscasts/bt M 7p newscast 12112023.MP3
+./Dad_Newscasts/bt M 10p newscast 06092023.MP3
+./Dad_Newscasts/bt M 9p newscast 09272023.MP3
+./Dad_Newscasts/bt M 10p newscast 04242023.MP3
+./Dad_Newscasts/bt G1 Is-Pals Shifa 11222023 LONG w intro.MP3
+./Dad_Newscasts/bt M 7p newscast 07282023.MP3
