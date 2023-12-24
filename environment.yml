@@ -1,12 +1,17 @@
 name: VoiceCloning
 channels:
+  - pytorch
+  - nvidia
   - defaults
 dependencies:
   - python==3.10
   - pip
+  - numpy
+  - pytorch==2.0.0
+  - torchvision==0.15.0
+  - torchaudio==2.0.0
+  - cudatoolkit=11.8
+  - python-dotenv
   - pip:
-    - torch
-    - torchtext
-    - numpy
     - assemblyai
-    - python-dotenv
+    - git+https://github.com/m-bain/whisperx.git

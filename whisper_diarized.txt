@@ -1053,25 +1053,6 @@
 ./Dad_Newscasts/bt M 9p newscast 08022023.MP3
 ./Dad_Newscasts/bt F 10p newscast 10122023.MP3
 ./Dad_Newscasts/bt M 930p AP NewsWatch 08302023.MP3
-./Dad_Newscasts/bt 630p AP NewsWatch 08032023.MP3
-./Dad_Newscasts/bt M 7p newscast 05102023.MP3
-./Dad_Newscasts/bt Q1 Debt Limit 05292023 such as food stamps.MP3
-./Dad_Newscasts/bt F 10p newscast 09212023.MP3
-./Dad_Newscasts/bt M 10p newscast 12072023.MP3
-./Dad_Newscasts/bt M 630p AP Newswatch 04262023.MP3
-./Dad_Newscasts/bt M 8p newscast 07272023.MP3
-./Dad_Newscasts/bt M 730p AP NewsWatch 10112023.MP3
-./Dad_Newscasts/bt M 6p newscast 10272023.MP3
-./Dad_Newscasts/bt M 530p AP NewsWatch 10272023.MP3
-./Dad_Newscasts/bt G1 Is-Pals IDF hospital 11132023 LONG w intro.MP3
-./Dad_Newscasts/bt M 9p newscast 06202023.MP3
-./Dad_Newscasts/bt M 10p newscast 10022023.MP3
-./Dad_Newscasts/bt M 9p newscast 05102023.MP3
-./Dad_Newscasts/bt M 9p newscast 07242023.MP3
-./Dad_Newscasts/bt 930p AP NewsWatch 06122023.MP3
-./Dad_Newscasts/bt M 530p AP NewsWatch 11082023.MP3
-./Dad_Newscasts/bt G1 Debt Limit 06012023 LONG w intro.MP3
-./Dad_Newscasts/bt M 10p newscast 12062023.MP3
 ./Dad_Newscasts/bt M 730p AP NewsWatch 04252023.MP3
 ./Dad_Newscasts/bt M 10p newscast 08252023.MP3
 ./Dad_Newscasts/bt 530p AP NewsWatch 11162023.MP3
@@ -1217,6 +1198,25 @@
 ./Dad_Newscasts/bt 830p AP NewsWatch 12152023.MP3
 ./Dad_Newscasts/bt M 6p newscast 04252023.MP3
 ./Dad_Newscasts/bt 530p AP NewsWatch 11272023.MP3
+./Dad_Newscasts/bt 630p AP NewsWatch 08032023.MP3
+./Dad_Newscasts/bt M 7p newscast 05102023.MP3
+./Dad_Newscasts/bt Q1 Debt Limit 05292023 such as food stamps.MP3
+./Dad_Newscasts/bt F 10p newscast 09212023.MP3
+./Dad_Newscasts/bt M 10p newscast 12072023.MP3
+./Dad_Newscasts/bt M 630p AP Newswatch 04262023.MP3
+./Dad_Newscasts/bt M 8p newscast 07272023.MP3
+./Dad_Newscasts/bt M 730p AP NewsWatch 10112023.MP3
+./Dad_Newscasts/bt M 6p newscast 10272023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 10272023.MP3
+./Dad_Newscasts/bt G1 Is-Pals IDF hospital 11132023 LONG w intro.MP3
+./Dad_Newscasts/bt M 9p newscast 06202023.MP3
+./Dad_Newscasts/bt M 10p newscast 10022023.MP3
+./Dad_Newscasts/bt M 9p newscast 05102023.MP3
+./Dad_Newscasts/bt M 9p newscast 07242023.MP3
+./Dad_Newscasts/bt 930p AP NewsWatch 06122023.MP3
+./Dad_Newscasts/bt M 530p AP NewsWatch 11082023.MP3
+./Dad_Newscasts/bt G1 Debt Limit 06012023 LONG w intro.MP3
+./Dad_Newscasts/bt M 10p newscast 12062023.MP3
 ./Dad_Newscasts/bt M 9p newscast 09292023.MP3
 ./Dad_Newscasts/bt M 7p newscast 11092023.MP3
 ./Dad_Newscasts/bt M 9p newscast 10022023.MP3

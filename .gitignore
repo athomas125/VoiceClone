@@ -1,4 +1,6 @@
 Dad_Newscasts/*
 Diarized_Transcripts/*
+whisper_diarized/*
+temp/*
 *.private
 *.pyc

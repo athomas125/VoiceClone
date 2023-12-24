@@ -28,10 +28,37 @@ def get_chapters(filepath, api_key):
 
     return transcript
 
-def get_api_key():
+def get_assembly_api_key():
     # Load the environment variables from .env file
     load_dotenv('.env.private')
 
     # Now you can access your API keys
     assemblyai_api_key = os.getenv('ASSEMBLYAI_API_KEY')
     return assemblyai_api_key
+
+def get_hf_api_key():
+    # Load the environment variables from .env file
+    load_dotenv('.env.private')
+
+    # Now you can access your API keys
+    hf_api_key = os.getenv('HF_TOKEN')
+    return hf_api_key
+
+import os
+
+def delete_files_with_substring(directory, substring):
+    """
+    Delete all files in the specified directory that contain the given substring.
+    This function does not search in subfolders.
+
+    :param directory: Path to the directory where files are to be searched and deleted.
+    :param substring: Substring to search for in file names.
+    """
+    for filename in os.listdir(directory):
+        # Construct full file path
+        file_path = os.path.join(directory, filename)
+
+        # Check if it's a file and contains the substring
+        if os.path.isfile(file_path) and substring in filename:
+            os.remove(file_path)
+            print(f"Deleted: {filename}")

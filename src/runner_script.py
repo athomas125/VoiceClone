@@ -6,7 +6,7 @@ directory = './Dad_Newscasts'
 
 # iterate over files in
 # that directory
-api_key = u.get_api_key()
+api_key = u.get_assembly_api_key()
 i = 0
 diarization_directory = './Diarized_Transcripts'
 tracking_file = "transcribed_files.txt"
