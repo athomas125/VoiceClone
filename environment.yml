@@ -13,6 +13,7 @@ dependencies:
   - cudatoolkit=11.8
   - python-dotenv
   - pip:
+    - pydub
     - assemblyai
     - git+https://github.com/m-bain/whisperx.git
     - ffmpeg

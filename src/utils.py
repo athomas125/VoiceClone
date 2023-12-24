@@ -28,6 +28,7 @@ def get_chapters(filepath, api_key):
 
     return transcript
 
+
 def get_assembly_api_key():
     # Load the environment variables from .env file
     load_dotenv('.env.private')
@@ -35,6 +36,7 @@ def get_assembly_api_key():
     # Now you can access your API keys
     assemblyai_api_key = os.getenv('ASSEMBLYAI_API_KEY')
     return assemblyai_api_key
+
 
 def get_hf_api_key():
     # Load the environment variables from .env file
@@ -44,7 +46,6 @@ def get_hf_api_key():
     hf_api_key = os.getenv('HF_TOKEN')
     return hf_api_key
 
-import os
 
 def delete_files_with_substring(directory, substring):
     """
@@ -62,3 +63,20 @@ def delete_files_with_substring(directory, substring):
         if os.path.isfile(file_path) and substring in filename:
             os.remove(file_path)
             print(f"Deleted: {filename}")
+
+
+def create_directory_and_tracking_file(output_dir, tracking_file):
+    if not os.path.isdir(output_dir):
+        os.makedirs(output_dir)
+
+
+    updated_files = set()
+
+    if os.path.isfile(tracking_file):
+        with open(tracking_file, "r", encoding="utf-8") as tf:
+            for line in tf:
+                updated_files.add(line.strip())
+    else:
+        with open(tracking_file, "w", encoding="utf-8") as fp:
+            print(f"tracking file created at {tracking_file}")
+    return updated_files

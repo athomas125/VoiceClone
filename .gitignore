@@ -2,5 +2,8 @@ Dad_Newscasts/*
 Diarized_Transcripts/*
 whisper_diarized/*
 temp/*
+temp_audio/*
+cropped_audio/*
+cropped_text/*
 *.private
 *.pyc
