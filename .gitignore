@@ -7,5 +7,7 @@ cropped_audio/*
 cropped_text/*
 spleeter_output/*
 pretrained_models/*
+demucs_separated/*
+temp_audio_out/*
 *.private
 *.pyc

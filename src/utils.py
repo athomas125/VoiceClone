@@ -80,3 +80,29 @@ def create_directory_and_tracking_file(output_dir, tracking_file):
         with open(tracking_file, "w", encoding="utf-8") as fp:
             print(f"tracking file created at {tracking_file}")
     return updated_files
+
+def loop_thru_files_w_func(directory, func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
+    for filename in os.listdir(directory):
+        file = os.path.join(directory, filename)
+        if os.path.isfile(file) and skip_set is not None and file not in skip_set:
+            func(file, *args, **kwargs)
+
+            if skip_tracking_file is not None:
+                with open(skip_tracking_file, "a", encoding="utf-8") as tf:
+                    print(f"processed: {file}!!")
+                    tf.write(f"{file}\n")
+        else:
+            print(f"Skipped {file}")
+
+def loop_thru_folders_w_func(directory, func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
+    for filename in os.listdir(directory):
+        path = os.path.join(directory, filename)
+        if os.path.isdir(path) and skip_set is not None and path not in skip_set:
+            func(path, *args, **kwargs)
+
+            if skip_tracking_file is not None:
+                with open(skip_tracking_file, "a", encoding="utf-8") as tf:
+                    print(f"processed: {file}!!")
+                    tf.write(f"{file}\n")
+        else:
+            print(f"Skipped {file}")
