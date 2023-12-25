@@ -81,11 +81,11 @@ def create_directory_and_tracking_file(output_dir, tracking_file):
             print(f"tracking file created at {tracking_file}")
     return updated_files
 
-def loop_thru_files_w_func(directory, func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
+def loop_thru_files_w_func(directory, file_func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
     for filename in os.listdir(directory):
         file = os.path.join(directory, filename)
-        if os.path.isfile(file) and skip_set is not None and file not in skip_set:
-            func(file, *args, **kwargs)
+        if os.path.isfile(file) and (skip_set is None or file not in skip_set):
+            file_func(file, *args, **kwargs)
 
             if skip_tracking_file is not None:
                 with open(skip_tracking_file, "a", encoding="utf-8") as tf:
@@ -94,15 +94,15 @@ def loop_thru_files_w_func(directory, func, skip_tracking_file=None, skip_set=No
         else:
             print(f"Skipped {file}")
 
-def loop_thru_folders_w_func(directory, func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
+def loop_thru_folders_w_func(directory, folder_func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
     for filename in os.listdir(directory):
         path = os.path.join(directory, filename)
-        if os.path.isdir(path) and skip_set is not None and path not in skip_set:
-            func(path, *args, **kwargs)
+        if os.path.isdir(path) and (skip_set is None or file not in skip_set):
+            folder_func(path, *args, **kwargs)
 
             if skip_tracking_file is not None:
                 with open(skip_tracking_file, "a", encoding="utf-8") as tf:
-                    print(f"processed: {file}!!")
-                    tf.write(f"{file}\n")
+                    print(f"processed: {path}!!")
+                    tf.write(f"{path}\n")
         else:
-            print(f"Skipped {file}")
+            print(f"Skipped {path}")
