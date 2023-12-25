@@ -2,6 +2,7 @@ name: VoiceCloning
 channels:
   - pytorch
   - nvidia
+  - conda-forge
   - defaults
 dependencies:
   - python==3.10
@@ -12,8 +13,10 @@ dependencies:
   - torchaudio==2.0.0
   - cudatoolkit=11.8
   - python-dotenv
+  - libsndfile
+  - ffmpeg
   - pip:
     - pydub
     - assemblyai
     - git+https://github.com/m-bain/whisperx.git
-    - ffmpeg
+    - spleeter

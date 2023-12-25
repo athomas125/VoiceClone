@@ -5,5 +5,7 @@ temp/*
 temp_audio/*
 cropped_audio/*
 cropped_text/*
+spleeter_output/*
+pretrained_models/*
 *.private
 *.pyc
