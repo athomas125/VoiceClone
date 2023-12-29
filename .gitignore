@@ -11,6 +11,8 @@ demucs_separated/*
 demucs_fractured/*
 temp_audio_out/*
 LJSpeech-1.1/*
+DL-Art-School/*
+tortoise-tts-fast
 LJSpeech-1.1.tar.bz2
 *.private
 *.pyc

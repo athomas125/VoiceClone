@@ -2,6 +2,7 @@ import utils as u
 import os
 from pydub import AudioSegment
 import json
+import random
 
 def get_timestamps(audio_file):
     json_name = audio_file.split('/')[-1].split('_')[-3] + '.json'
@@ -20,9 +21,12 @@ def get_timestamps(audio_file):
                 audio_clip = audio[start*1000:end*1000]
                 start = end
                 # Export the concatenated segments to a single file
-                out_path = os.path.join('demucs_fractured', f"{output_base}_{i}")
-                audio_clip.export(out_path, format='mp3')
-                i += 1
-                of.write(f"{out_path}|{segment['text']}\n")
+                out_path = os.path.join('demucs_fractured', f"{output_base}_{i}.wav")
+                if i > 0 or random.randint(0, 1000) > 999:
+                    audio_clip.export(out_path, format='wav')
+                    i += 1
+                    of.write(f"{out_path}|{segment['text']}|{segment['text']}\n")
+                else:
+                    i += 1
 
 u.loop_thru_files_w_func('demucs_separated', get_timestamps)
