@@ -21,7 +21,7 @@ def get_timestamps(audio_file):
                 audio_clip = audio[start*1000:end*1000]
                 start = end
                 # Export the concatenated segments to a single file
-                out_path = os.path.join('demucs_fractured', f"{output_base}_{i}.wav")
+                out_path = os.path.join('training_data', f"{output_base}_{i}.wav")
                 if i > 0 or random.randint(0, 1000) > 999:
                     audio_clip.export(out_path, format='wav')
                     i += 1
