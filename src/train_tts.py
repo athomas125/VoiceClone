@@ -20,9 +20,8 @@ output_path = os.path.dirname(os.path.abspath(__file__))
 # You can also use a simple Dict to define the dataset and pass it to your custom formatter.
 # Make sure that the meta_file_train is formatted as expected for ljspeech
 dataset_config = BaseDatasetConfig(
-    formatter="ljspeech", meta_file_train="training_data.txt", path=os.path.join(output_path, "../")
+    formatter="ljspeech", meta_file_train="training_data.txt", path=os.path.join(output_path, "../training_data/")
 )
-print(dataset_config)
 
 # INITIALIZE THE TRAINING CONFIGURATION
 # Configure the model. Every config class inherits the BaseTTSConfig.
@@ -67,7 +66,6 @@ train_samples, eval_samples = load_tts_samples(
     eval_split=True,
     eval_split_max_size=config.eval_split_max_size,
     eval_split_size=config.eval_split_size)
-print(train_samples[0])
 
 # INITIALIZE THE MODEL
 # Models take a config object and a speaker manager as input
