@@ -12,6 +12,7 @@ training_data/*
 temp_audio_out/*
 LJSpeech-1.1/*
 DL-Art-School/*
+src/*/
 tortoise-tts-fast
 LJSpeech-1.1.tar.bz2
 *.private

@@ -94,6 +94,7 @@ def loop_thru_files_w_func(directory, file_func, skip_tracking_file=None, skip_s
         else:
             print(f"Skipped {file}")
 
+
 def loop_thru_folders_w_func(directory, folder_func, skip_tracking_file=None, skip_set=None, *args, **kwargs):
     for filename in os.listdir(directory):
         path = os.path.join(directory, filename)
@@ -106,3 +107,13 @@ def loop_thru_folders_w_func(directory, folder_func, skip_tracking_file=None, sk
                     tf.write(f"{path}\n")
         else:
             print(f"Skipped {path}")
+
+
+def move_file_to_directory(src_file, dest_directory):
+    """move a file to the specified directory."""
+    # Ensure the destination directory exists
+    os.makedirs(dest_directory, exist_ok=True)
+
+    dest_file = os.path.join(dest_directory, os.path.basename(src_file))
+
+    shutil.move(src_file, dest_file)
