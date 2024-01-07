@@ -8,7 +8,7 @@ cropped_text/*
 spleeter_output/*
 pretrained_models/*
 demucs_separated/*
-training_data/*
+training_data/wavs/*
 temp_audio_out/*
 LJSpeech-1.1/*
 DL-Art-School/*
