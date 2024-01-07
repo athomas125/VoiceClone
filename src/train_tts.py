@@ -1,14 +1,16 @@
-# https://docs.coqui.ai/en/latest/training_a_model.html
 import os
 
 # Trainer: Where the ✨️ happens.
 # TrainingArgs: Defines the set of arguments of the Trainer.
 from trainer import Trainer, TrainerArgs
-# Tacotron2Config: all model related values for training, validating and testing.
-from TTS.tts.configs.tacotron2_config import Tacotron2Config
+
+# GlowTTSConfig: all model related values for training, validating and testing.
+from TTS.tts.configs.glow_tts_config import GlowTTSConfig
+
+# BaseDatasetConfig: defines name, formatter and path of the dataset.
 from TTS.tts.configs.shared_configs import BaseDatasetConfig
 from TTS.tts.datasets import load_tts_samples
-from TTS.tts.models.tacotron2 import Tacotron2
+from TTS.tts.models.glow_tts import GlowTTS
 from TTS.tts.utils.text.tokenizer import TTSTokenizer
 from TTS.utils.audio import AudioProcessor
 
@@ -27,14 +29,14 @@ dataset_config = BaseDatasetConfig(
 # Configure the model. Every config class inherits the BaseTTSConfig.
 # max_audio_len is defaulted to float("inf")
 # https://github.com/coqui-ai/TTS/blob/dev/TTS/tts/configs/shared_configs.py
-config = Tacotron2Config(
+config = GlowTTSConfig(
     batch_size=32,
     eval_batch_size=16,
     num_loader_workers=4,
     num_eval_loader_workers=4,
     run_eval=True,
     test_delay_epochs=-1,
-    epochs=1000,
+    epochs=10,
     text_cleaner="phoneme_cleaners",
     use_phonemes=True,
     phoneme_language="en-us",
@@ -71,8 +73,7 @@ train_samples, eval_samples = load_tts_samples(
 # Models take a config object and a speaker manager as input
 # Config defines the details of the model like the number of layers, the size of the embedding, etc.
 # Speaker manager is used by multi-speaker models.
-# https://github.com/coqui-ai/TTS/blob/dev/TTS/tts/models/tacotron2.py
-model = Tacotron2(config, ap, tokenizer, speaker_manager=None)
+model = GlowTTS(config, ap, tokenizer, speaker_manager=None)
 
 # INITIALIZE THE TRAINER
 # Trainer provides a generic API to train all the 🐸TTS models with all its perks like mixed-precision training,
@@ -83,3 +84,5 @@ trainer = Trainer(
 
 # AND... 3,2,1... 🚀
 trainer.fit()
+
+print("COMPLETED A RUN!!!!!")
