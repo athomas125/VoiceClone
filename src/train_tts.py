@@ -30,13 +30,13 @@ dataset_config = BaseDatasetConfig(
 # max_audio_len is defaulted to float("inf")
 # https://github.com/coqui-ai/TTS/blob/dev/TTS/tts/configs/shared_configs.py
 config = GlowTTSConfig(
-    batch_size=32,
+    batch_size=256,
     eval_batch_size=16,
     num_loader_workers=4,
     num_eval_loader_workers=4,
     run_eval=True,
     test_delay_epochs=-1,
-    epochs=10,
+    epochs=100,
     text_cleaner="phoneme_cleaners",
     use_phonemes=True,
     phoneme_language="en-us",
