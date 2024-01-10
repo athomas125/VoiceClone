@@ -36,7 +36,7 @@ config = GlowTTSConfig(
     num_eval_loader_workers=4,
     run_eval=True,
     test_delay_epochs=-1,
-    epochs=100,
+    epochs=1000,
     text_cleaner="phoneme_cleaners",
     use_phonemes=True,
     phoneme_language="en-us",
@@ -45,7 +45,7 @@ config = GlowTTSConfig(
     print_eval=False,
     mixed_precision=True,
     output_path=output_path,
-    datasets=[dataset_config],
+    datasets=[dataset_config]
 )
 
 # INITIALIZE THE AUDIO PROCESSOR
